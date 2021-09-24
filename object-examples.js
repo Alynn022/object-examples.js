@@ -21,7 +21,7 @@ var customer = {
   typeOfStores: ['Mall', 'Electronic stores', 'Kiosks', 'Department stores'],
   compatibility: ['iPhone 12', 'iPhone 12 max pro'],
   inventory: 10000,
-  isUnisex: true,
-  isAvailableForAllPhones: false,
+  isUnisex: True,
+  isAvailableForAllPhones: False,
   sale: False,
 };
